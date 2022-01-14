@@ -1,0 +1,7 @@
+F:\Dev\signalr_notification_server\NotificationServer\NotificationServer\obj\Release\net6.0\PubTmp\Out\NotificationServer.exe
+F:\Dev\signalr_notification_server\NotificationServer\NotificationServer\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+F:\Dev\signalr_notification_server\NotificationServer\NotificationServer\obj\Release\net6.0\PubTmp\Out\appsettings.json
+F:\Dev\signalr_notification_server\NotificationServer\NotificationServer\obj\Release\net6.0\PubTmp\Out\NotificationServer.dll
+F:\Dev\signalr_notification_server\NotificationServer\NotificationServer\obj\Release\net6.0\PubTmp\Out\NotificationServer.deps.json
+F:\Dev\signalr_notification_server\NotificationServer\NotificationServer\obj\Release\net6.0\PubTmp\Out\NotificationServer.runtimeconfig.json
+F:\Dev\signalr_notification_server\NotificationServer\NotificationServer\obj\Release\net6.0\PubTmp\Out\NotificationServer.pdb
