@@ -26,6 +26,9 @@ namespace NotificationServer.Controllers
         [HttpPost("{group}")]
         public async Task<Payload> SendMessage([Required] string group, [Required] Payload msg)
         {
+            msg.Id = Guid.NewGuid();
+            msg.Timestamp = DateTime.Now;
+
             await _notificationHubContext.Clients.Group(group).SendAsync("client_side_method_identifier", msg);
 
             if (Messages.ContainsKey(group))

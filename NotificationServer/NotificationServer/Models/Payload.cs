@@ -6,8 +6,8 @@
 
         public string SenderId { get; set; }
 
-        public DateTime Timestamp { get; set; } = DateTime.Now;
+        public DateTime Timestamp { get; set; }
 
-        public Guid Id { get; set; } = new Guid();
+        public Guid Id { get; set; }
     }
 }

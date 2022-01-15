@@ -5,6 +5,6 @@ https://go.microsoft.com/fwlink/?LinkID=208121.
 <Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
     <_PublishTargetUrl>C:\notificationserver</_PublishTargetUrl>
-    <History>True|2022-01-14T06:46:12.6282676Z;</History>
+    <History>True|2022-01-14T19:23:00.0435407Z;True|2022-01-14T21:18:29.3051596+02:00;True|2022-01-14T21:13:09.4947841+02:00;True|2022-01-14T21:11:25.2644386+02:00;False|2022-01-14T21:11:10.7634534+02:00;True|2022-01-14T21:08:42.7324714+02:00;True|2022-01-14T19:03:09.1064380+02:00;True|2022-01-14T08:46:12.6282676+02:00;</History>
   </PropertyGroup>
 </Project>

@@ -27,7 +27,6 @@ F:\Dev\signalr_notification_server\NotificationServer\NotificationServer\bin\Deb
 F:\Dev\signalr_notification_server\NotificationServer\NotificationServer\bin\Debug\net6.0\NotificationServer.dll
 F:\Dev\signalr_notification_server\NotificationServer\NotificationServer\bin\Debug\net6.0\ref\NotificationServer.dll
 F:\Dev\signalr_notification_server\NotificationServer\NotificationServer\bin\Debug\net6.0\NotificationServer.pdb
-F:\Dev\signalr_notification_server\NotificationServer\NotificationServer\obj\Debug\net6.0\NotificationServer.csproj.AssemblyReference.cache
 F:\Dev\signalr_notification_server\NotificationServer\NotificationServer\obj\Debug\net6.0\NotificationServer.GeneratedMSBuildEditorConfig.editorconfig
 F:\Dev\signalr_notification_server\NotificationServer\NotificationServer\obj\Debug\net6.0\NotificationServer.AssemblyInfoInputs.cache
 F:\Dev\signalr_notification_server\NotificationServer\NotificationServer\obj\Debug\net6.0\NotificationServer.AssemblyInfo.cs
